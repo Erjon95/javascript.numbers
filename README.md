@@ -19,7 +19,7 @@
 
 
 ## Part 2 - Modifying `numbers.js`
-* Upon cloning the project, from a browser, open the `./index.html` located at the root of the project.
+* Upon cloning the project, from a **browser**, open the `./index.html` located at the root of the project.
 * From the browser, open the **insepctor-tools**.
 * The inspector tools should reveal `log` messages from `console` displaying an `expectedOutput` and an `actualOutput`.
 * Modify `./assets/js/numbers.js` to ensure that the `expectedOutput` and `actualOutput` are the same.
