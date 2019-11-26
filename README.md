@@ -24,7 +24,7 @@
 * The inspector tools should reveal `log` messages from `console` displaying an `expectedOutput` and an `actualOutput`.
 * Modify `./assets/js/numbers.js` to ensure that the `expectedOutput` and `actualOutput` are the same.
 
-![](./img/console.png)
+![](./assets/img/console.png)
 
 
 ## Part 3 - Submitting assignment
